@@ -1,0 +1,54 @@
+[33mcommit 878a6561212dbb85f5612709bc2151da3c1f1ea4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: d96ded1 29247da
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Tue Aug 30 00:46:48 2022 -0400
+
+    Solucionando conflictos en formato de fechas en formato demo.js
+
+[33mcommit d96ded13b99fec0cda5c499f75b851534a49dccd[m
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Tue Aug 30 00:37:10 2022 -0400
+
+    Agregando fecha 25/08/2022 al archivo demo
+
+[33mcommit 29247da3f6b941df6a75d1fff3cbdbdbd452048e[m[33m ([m[1;32mdia6[m[33m)[m
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Tue Aug 30 00:35:01 2022 -0400
+
+    Agregando dia al archivo demo
+
+[33mcommit c0738e98f9e43e75a4e47e245b5008ddfb722e2c[m
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Tue Aug 30 00:18:48 2022 -0400
+
+    Agregando dia 6 en el archivo demo
+
+[33mcommit cad3b9b19c68440b1a531c7b22572dafc48ff525[m
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Tue Aug 30 00:16:37 2022 -0400
+
+    Agregando el archivo dia6
+
+[33mcommit f0db69c78a458b88004527fac00bb43846434e07[m
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Tue Aug 30 00:03:54 2022 -0400
+
+    Quitando el archivo nuevo
+
+[33mcommit 2a496cdb8455e54e092c65a57264675b7fb67064[m
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Tue Aug 30 00:02:19 2022 -0400
+
+    Agregando el archivo nuevo
+
+[33mcommit f165af8f55671df3e655d8358475af8e07a2f35a[m
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Mon Aug 29 23:57:11 2022 -0400
+
+    Modificando el archivo demo
+
+[33mcommit 87563385beaa37a43440b63437a33dd347216177[m
+Author: David Orlando Beltran Cabrera <davidbeltrancabrera@gmail.com>
+Date:   Mon Aug 29 23:48:57 2022 -0400
+
+    Agregando archivo demo
